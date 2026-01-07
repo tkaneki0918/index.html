@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>My Fashion Story - 服が好きになった理由（自分の趣味について）</title>
+    <meta name="description" content="高校1年生の時に友人から服装を指摘されたことをきっかけに、独学でファッションを学び、人生が大きく変わった体験談を紹介します。母に選んでもらった服を卒業し、自分自身を表現する手段として服を楽しむようになった過程を綴っています。">
+    <meta name="keywords" content="ファッション, 服好き, ライフスタイル, 自己改善, コーディネート">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>服を好きになった理由とおすすめブランド</h1>
+         <h2>目次</h2>
+        <nav>
+            <ul>
+               <li><a href="index.html">好きになった理由</a></li>
+                <li><a href="2.html">変化と意識</a></li>
+<p>↓自分の好きなブランド</p>
+                <li><a href="3.html">Jacquemus</a></li>
+                <li><a href="4.html">sol soonerorlater</a></li>
+                <li><a href="5.html">Anthony Calydon</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h3>服が好きになった理由</h3>
+            <p class="highlight">「ダサい」の一言が、人生を変えるきっかけでした。</p>
+            <p>高校1年生の時、友達に服装がダサいと言われたことがすべての始まりです。当時の私は、お母さんに買ってもらった服をただ着ているだけでした。</p>
+            <p>その言葉が悔しく、服が好きな友人にアドバイスを求めたり、独学で雑誌やネットを調べたりするようになりました。今では服は人生の中心であり、自分を変えてくれた大切な存在です。</p>
+             <img src="C:\Users\tkaneki\Pictures\11_0_0_11.jpg"
+
+        </section>
+        </article>
+    </main>
+
+</body>
+</html>
